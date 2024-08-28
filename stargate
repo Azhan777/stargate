@@ -1,0 +1,2 @@
+#!/bin/bash
+java -cp /Users/azhanali/DGlobal/stargate/build/libs/stargate-1.0-all.jar Stargate
